@@ -8,7 +8,7 @@ baseurl: /thinkwork.org
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 826140 #669999
+  primary: d5d5d5 #d5d5d5
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
