@@ -2,8 +2,12 @@
 title: ThinkWork.org
 email: your-email@domain.com
 url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-baseurl: 
+description: "Thinkwork.org is upcoming home of home to research, training, and outreach activities that promote employment for individuals with intellectual and developmental disabilities (IDD).
+
+We are funded by the National Institute on Disability and Rehabilitation Research in the US Department of Education.
+
+The RRTC is a project of the Institute for Community Inclusion at the University of Massachusetts Boston."
+baseurl:
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -14,7 +18,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Institute for Community Inclusion Umass Boston 
+  copyright: Institute for Community Inclusion Umass Boston
   location: Boston
   social: Around the Web
   credits: Credits
